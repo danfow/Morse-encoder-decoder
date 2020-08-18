@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\binary_tree.h(316,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\binary_tree.h(306): message : while compiling class template member function 'std::string Binary_Tree<BTNode<char>>::encode(std::string)'
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\main.cpp(33): message : see reference to function template instantiation 'std::string Binary_Tree<BTNode<char>>::encode(std::string)' being compiled
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\main.cpp(20): message : see reference to class template instantiation 'Binary_Tree<BTNode<char>>' being compiled
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\binary_tree.h(317,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\binary_tree.h(342,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\binary_tree.h(334): message : while compiling class template member function 'void Binary_Tree<BTNode<char>>::decode(std::string)'
+C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Project2\main.cpp(35): message : see reference to function template instantiation 'void Binary_Tree<BTNode<char>>::decode(std::string)' being compiled
+  Project2.vcxproj -> C:\Users\newva\Desktop\School\Data structures\Project 2\Project2\Debug\Project2.exe
